@@ -1,8 +1,8 @@
 # 💰 Personal Finance Dashboard - Power BI
 A Microsoft Power BI project that analyzes personal financial data and visualizes expenses through an interactive dashboard.
 
-##🗣 "Data analysis is not just about presenting data, but to build a story and create a meaningful narrative from the raw data. At the end of the day, that's what analytics is all about - not about writing code, not about crunching numbers, not about memorizing formula syntax - it's about deriving meaning and context from the data and, more importantly, using it to make real change."## 
-- Chris Dutton, Maven Analytics
+##🗣 "Data analysis is not just about presenting data, but to build a story and create a meaningful narrative from the raw data. At the end of the day, that's what analytics is all about - not about writing code, not about crunching ## ## numbers, not about memorizing formula syntax - it's about deriving meaning and context from the data and, more importantly, using it to make real change."
+## - Chris Dutton, Maven Analytics
 
 # 🎯 Problem Statement
 I have been tracking my daily expenses using Microsoft Excel. While sorting/filtering in Excel gives a basic overview, a deeper financial analysis requires an interactive dashboard.
